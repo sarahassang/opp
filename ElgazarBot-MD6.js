@@ -7217,7 +7217,7 @@ teks = `• مرحبا ياروحي ⤌⤈
 https://youtube.com/@ABDALLAH_MOHAMED
 
 لينك شاتي 
-https://api.whatsapp.com/send?phone=+201098906252`
+https://api.whatsapp.com/send?phone=+393792867092`
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
